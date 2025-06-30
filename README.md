@@ -53,9 +53,6 @@ pip install opencv-python
 - To use a different dataset, replace the text files in `dnn_model/` with your own.
 - To adjust the model or detection logic, modify `OD_DNN.py`.
 
-## License
-
-This project is released under the MIT License.
 
 ## Acknowledgments
 
